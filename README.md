@@ -1,4 +1,4 @@
-# hello-world
+# some c++ code
 //say hi to github
 #include <iostream>
 using namespace std;
